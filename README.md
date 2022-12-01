@@ -4,6 +4,8 @@ A quick-start example to help you to customize the selection using decoration in
 
 You can decorate the selection view of calendar by using the [selectionDecoration](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/SfCalendar/selectionDecoration.html) property of Calendar.
 
+![SelectionDecoration](https://user-images.githubusercontent.com/46158936/205008934-6393f7c6-8c8e-4460-9cc5-708140a29ae9.gif)
+
 You can also refer our UG documentation to know more about [SelectionDecoration](https://help.syncfusion.com/flutter/calendar/getting-started#selection-decoration)
 
 ## Requirements to run the demo
